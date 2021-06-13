@@ -44,7 +44,7 @@
 #### 4: How are movie production revenues trending over the years?
 
 ## So let's go!
-
+#### Important note: Github dark theme makes the plot's text invisible so enable light theme for better view
 
 
 ### Importing libraries
